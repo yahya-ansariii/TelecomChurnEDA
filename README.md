@@ -1,7 +1,11 @@
-# TelecomChurnEDA
+# Telecom Churn EDA
+
+
+Click on the following link to checkout the video presentation.
+- [Youtube](https://youtu.be/N7YS3xRbYxg)
+
 
 ## Problem Statement
-
 
 Telecom churn analysis is the process of identifying customers who are likely to cancel their service or switch to a different service provider. This is an important problem for telecom companies, as churn can have a significant impact on their revenue and profitability.
 Orange S.A., formerly France Telecom S.A., is a French multinational telecommunications corporation. The Orange Telecom's Churn Dataset, consists of cleaned customer activity data (features), along with a churn label specifying whether a customer cancel the subscription. Explore and analyze the data to discover key factors responsible for customer churn and come up with ways/recommendations to ensure customer retention.
@@ -39,3 +43,10 @@ The telecommunications market is already well-established, and the rate of new c
 4.	Customers who have had four or more customer service calls churn significantly more than other customers.
 5.	Customers with high day and evening minute usage tend to churn at a higher rate.
 6.	There is no clear relationship between churn and the variables such as day calls, evening calls, night calls, international calls, night minutes, international minutes, account length, or voice mail messages.
+
+---
+
+## Authors
+
+- [Mohammed Yahya Ansari](https://www.linkedin.com/in/yahya-ansari/)
+- [Prafull Korde](https://www.linkedin.com/in/prafull-korde-400560126/)
