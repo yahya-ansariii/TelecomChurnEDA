@@ -2,7 +2,8 @@
 
 
 Click on the following link to checkout the video presentation.
-- [Youtube](https://youtu.be/N7YS3xRbYxg)
+- [Colab](https://youtu.be/24vd5zRTY5Y)
+- [PPT](https://youtu.be/ln_fJYoGyB0)
 
 
 ## Problem Statement
