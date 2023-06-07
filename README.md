@@ -1,5 +1,6 @@
 # Telecom Churn EDA
 
+**AlmaBetter Verified Project** - [**Credentials**](https://certificates.almabetter.com/en/verify/33004673711857/)
 
 Click on the following link to checkout the video presentation.
 - [Colab](https://youtu.be/24vd5zRTY5Y)
