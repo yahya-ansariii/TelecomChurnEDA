@@ -1,11 +1,19 @@
+### Metadata
+
+| File Name    | File Type |       Description |  Link   |
+| --------- | ------- | -------------| ----------|
+| Project Presentation.pptx     |    PowerPoint Presentation     |  	A presentation about the project    |    [View](https://github.com/yahya-ansariii/TelecomChurnEDA/blob/master/Project%20Presentation.pptx)    |
+| Project Presentation.pptx.pdf   |    PDF Document     |   A document containing the presentation in pdf format   |    [View](https://github.com/yahya-ansariii/TelecomChurnEDA/blob/master/Project%20Presentation.pptx.pdf)    |
+| Project Summary.pdf     |    PDF Document     |   A document containing the summery of the project   |    [View](https://github.com/yahya-ansariii/TelecomChurnEDA/blob/master/Project%20Summary.pdf)    |
+| README.md     |    Markdown     |  	The README file for the project    |    [View](https://github.com/yahya-ansariii/TelecomChurnEDA/blob/master/README.md)    |
+|    Technical documentation.pdf    |    PDF Document    |    A document containing technical information about the project    |    [View](https://github.com/yahya-ansariii/TelecomChurnEDA/blob/master/Technical%20documentation.pdf)    |
+|    Telecom Churn.csv    |    CSV    |    A CSV file containing data used in the project    |    [View](https://github.com/yahya-ansariii/TelecomChurnEDA/blob/master/Telecom%20Churn.csv)    |
+|    TelecomChurnEDA.ipynb    |    Colab Notebook    |    Contains code for exploratory data analysis of the project    |    [View](https://githubtocolab.com/yahya-ansariii/TelecomChurnEDA/blob/master/TelecomChurnEDA.ipynb)    |
+
+
 # Telecom Churn EDA
 
 **AlmaBetter Verified Project** - [**Credentials**](https://certificates.almabetter.com/en/verify/33004673711857/)
-
-Click on the following link to checkout the video presentation.
-- [Colab](https://youtu.be/24vd5zRTY5Y)
-- [PPT](https://youtu.be/ln_fJYoGyB0)
-
 
 ## Problem Statement
 
